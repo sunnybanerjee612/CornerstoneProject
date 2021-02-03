@@ -1,5 +1,6 @@
 # Deploy on a docker container using Jenkins 
-# `Deploy_on_Container`
+# Deploy_on_Container`
+# Perform the Pre- Requisites , Integration between Ducker- host and create Jenkinsfile for the steps to create " Doplay_ on_Container'Jenkin job
 
 ### Pre-requisites
 
