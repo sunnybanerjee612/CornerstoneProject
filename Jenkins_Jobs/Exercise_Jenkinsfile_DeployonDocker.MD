@@ -1,6 +1,8 @@
 # Deploy on Docker host server using Jenkins 
 # *Jenkins Job name:* `Deploy_on_Docker_Host`
 
+### Perform prerquities, integration and create Jenkinsfile to automate steps to create "Deploy_on_Docker_Host" Jenkin job
+
 ### Pre-requisites
 
 1. Jenkins server 
