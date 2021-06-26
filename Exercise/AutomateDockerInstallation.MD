@@ -1,4 +1,6 @@
-# Installing Docker on Amazon Linux server
+# Create Cloud formation template for Installing Docker on Amazon Linux server.
+
+Below is the manual instructions . Add custom automations using user data script within Cloud form nation template .
 
 ### Pre-requisites
 1. Amazon Linux EC2 Instance
@@ -29,7 +31,7 @@
    docker run -d --name test-tomcat-server -p 8090:8080 tomcat:latest
    ```
 
-## Docker Installation on CentOS server
+## Create Cloud Formation Template for Docker Installation on CentOS server
 ##### Referance URL : https://docs.docker.com/install/linux/docker-ce/centos/#install-using-the-repository
 ### Pre-requisites
 

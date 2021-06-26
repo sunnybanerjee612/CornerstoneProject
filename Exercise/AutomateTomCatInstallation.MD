@@ -1,7 +1,9 @@
-# Tomcat installation on EC2 instance
+# Create Cloudformatio Template for Tomcat installation on EC2 instance
 
 ### Pre-requisites
-1. EC2 instance with Java v1.8.x 
+1. EC2 instance with Java v1.8.x
+2. The Tomcat installation slips goes into the user data section or is used as a custom script within the cloud formation template
+
 
 ### Install Apache Tomcat
 1. Download tomcat packages from  https://tomcat.apache.org/download-80.cgi onto /opt on EC2 instance
